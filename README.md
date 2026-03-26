@@ -1,4 +1,5 @@
 Compilar no terminal.
+
 javac StdIn.java StdOut.java Insertion.java
 
 Execute no terminal passando o arquivo de texto como entrada
